@@ -1,5 +1,6 @@
 # Sorting-Algorithms-Visualizer
 Script designed to simulate different sorting algorithms and compare them in action.
+
 To run the script, use the command
 ```
 python index.py
