@@ -1,6 +1,11 @@
 # Sorting-Algorithms-Visualizer
 Script designed to simulate different sorting algorithms and compare them in action.
 
+To install the required dependencies, use the command
+```
+pip install -r requirements.txt
+```
+
 To run the script, use the command
 ```
 python index.py
