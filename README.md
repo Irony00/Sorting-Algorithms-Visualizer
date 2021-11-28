@@ -7,13 +7,16 @@ To run the script, use the command
 python index.py
 ```
 
-### Linear Sort 📎[Youtube](https://www.youtube.com/watch?v=TJ2F7_Qz7S0)
+### Linear Sort 
 [<img src="https://img.youtube.com/vi/TJ2F7_Qz7S0/maxresdefault.jpg" width="50%">](https://youtu.be/TJ2F7_Qz7S0)
+📎 [Youtube](https://www.youtube.com/watch?v=TJ2F7_Qz7S0)
 
 
-### Merge Sort 📎[Youtube](https://www.youtube.com/watch?v=G4BgoU1jUGA)
+### Merge Sort 
 [<img src="https://img.youtube.com/vi/G4BgoU1jUGA/maxresdefault.jpg" width="50%">](https://youtu.be/G4BgoU1jUGA)
+📎 [Youtube](https://www.youtube.com/watch?v=G4BgoU1jUGA)
 
 
-### Comparing Linear Sort vs Merge Sort 📎[Youtube](https://www.youtube.com/watch?v=GetRm-mblh8)
+### Comparing Linear Sort vs Merge Sort 📎 [Youtube](https://www.youtube.com/watch?v=GetRm-mblh8)
 [<img src="https://img.youtube.com/vi/GetRm-mblh8/maxresdefault.jpg" width="50%">](https://youtu.be/GetRm-mblh8)
+📎 [Youtube](https://www.youtube.com/watch?v=GetRm-mblh8)
