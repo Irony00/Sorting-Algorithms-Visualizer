@@ -8,4 +8,4 @@ python index.py
 ```
 
 ## Linear Sort
-[![Watch the video]](https://cdn.discordapp.com/attachments/724298671642116119/914401050402902036/sample.mp4)
+[![Watch the video]](https://www.youtube.com/watch?v=TJ2F7_Qz7S0&t=1s)
