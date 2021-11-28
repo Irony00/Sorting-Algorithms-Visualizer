@@ -8,7 +8,7 @@ python index.py
 ```
 
 ### Linear Sort [Youtube](https://www.youtube.com/watch?v=TJ2F7_Qz7S0)
-https://github.com/Irony00/Sorting-Algorithms-Visualizer/blob/master/Linear%20Sort.mp4
+[<img src="https://img.youtube.com/vi/GetRm-mblh8/maxresdefault.jpg" width="50%">](https://youtu.be/GetRm-mblh8)
 
 
 ### Merge Sort [Youtube](https://www.youtube.com/watch?v=G4BgoU1jUGA)
