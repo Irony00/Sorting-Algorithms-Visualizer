@@ -19,7 +19,7 @@ python index.py
 📎 [Youtube](https://www.youtube.com/watch?v=G4BgoU1jUGA)
 
 
-### Comparing Linear Sort vs Merge Sort 📎 [Youtube](https://www.youtube.com/watch?v=GetRm-mblh8)
+### Comparing Linear Sort vs Merge Sort
 [<img src="https://img.youtube.com/vi/GetRm-mblh8/maxresdefault.jpg" width="50%">](https://youtu.be/GetRm-mblh8)
 
 📎 [Youtube](https://www.youtube.com/watch?v=GetRm-mblh8)
